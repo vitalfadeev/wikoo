@@ -1,5 +1,7 @@
 # wikoo
-Wikitionary data parser and extractor
+Wiki article parser. 
+On input: text
+on output: Object tree
 
 ## Usage ##
     import wikoo
@@ -8,6 +10,16 @@ Wikitionary data parser and extractor
 result:
 
     <Section>
+        <Section>
+            <Text>
+            <Template?
+            <Text>
+        <Section>
+            <Template?
+            <LI>
+            <LI>
+            <LI>
+            <Template?
   
 ### Example ###
 
