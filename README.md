@@ -1,7 +1,8 @@
 # wikoo
 Wiki article parser. 
-On input: text
-on output: Object tree
+
+* On input: text
+* on output: Object tree
 
 ## Usage ##
     import wikoo
